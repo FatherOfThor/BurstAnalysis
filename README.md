@@ -7,4 +7,4 @@ In this github 3 folders are created:
 2: Analysis of burst search algorithms
 3: Plotting the analysis results
 
-Keep in mind that the plots require saved data created with the analysis code. One must save the data created for the varying algorithms of interest.
+Keep in mind that the plots require saved data created with the analysis code. One must save the data created for the varying algorithms of interest to create plots.
